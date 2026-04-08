@@ -1,29 +1,18 @@
 ### Hey, I'm Arthur (LeTuR) 👋
 
-I build infrastructure, automate everything, and tinker with games on the side.
-
----
-
-#### 🛠️ Skills
-
-☁️ Azure · Kubernetes · Docker · Terraform · Ansible · Talos
-
-💻 Rust · Python · TypeScript · Shell
-
-🔄 GitHub Actions · GitLab CI · ArgoCD · Git
-
-🤖 Claude Code · Azure OpenAI
+🤖 Agentic / DevOps Engineer — I build infrastructure, automate everything, and tinker with games on the side.
 
 ---
 
 #### 🚀 Projects — [Thurbeen](https://github.com/Thurbeen)
 
 - 📦 [thurbox](https://github.com/Thurbeen/thurbox) — Multi-session Claude Code orchestrator TUI (Rust, Ratatui, MCP)
-- 🏠 [thurspace](https://github.com/Thurbeen/thurspace) — GitOps-managed homelab on bare-metal Kubernetes (Talos, ArgoCD)
-- ⚔️ [peon-tactics](https://github.com/Thurbeen/peon-tactics) — Hex-based tactical RPG with turn-based combat (Godot 4)
+- 🏠 thurspace — GitOps-managed homelab on bare-metal Kubernetes
+- ⚔️ peon-tactics — Hex-based tactical RPG with turn-based combat
 - 🐳 [claude-code-job](https://github.com/Thurbeen/claude-code-job) — Docker image for Claude Code automation jobs
 - 🔍 [gdcruiser](https://github.com/Thurbeen/gdcruiser) — GDScript architecture validator and visualizer (Python)
 - 🦀 [rust-skills](https://github.com/Thurbeen/rust-skills) — Meta-problem-driven Rust AI assistance system
+- 🧰 [thurbeen-skills](https://github.com/Thurbeen/thurbeen-skills) — Centralized Claude Code skills and commands
 
 #### 💼 Projects — Personal
 
