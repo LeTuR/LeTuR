@@ -13,6 +13,7 @@
 - 🐳 [claude-code-job](https://github.com/Thurbeen/claude-code-job) — Docker image for Claude Code automation jobs
 - 🔍 [gdcruiser](https://github.com/Thurbeen/gdcruiser) — GDScript architecture validator and visualizer (Python)
 - 🦀 [rust-skills](https://github.com/Thurbeen/rust-skills) — Meta-problem-driven Rust AI assistance system
+- 🐧 [thurarch](https://github.com/Thurbeen/thurarch) — Opinionated Arch Linux setup
 - 🧰 [thurbeen-skills](https://github.com/Thurbeen/thurbeen-skills) — Centralized Claude Code skills and commands
 
 #### 💼 Projects — Personal
