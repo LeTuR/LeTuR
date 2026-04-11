@@ -10,6 +10,7 @@
 - ☸️ [thurkube](https://github.com/Thurbeen/thurkube) — Claude Code Agent Kubernetes Orchestrator
 - 🏠 thurspace — GitOps-managed homelab on bare-metal Kubernetes
 - ⚔️ peon-tactics — Hex-based tactical RPG with turn-based combat
+- 🐧 [thurarch](https://github.com/Thurbeen/thurarch) — Opinionated Arch Linux setup
 - 🐳 [claude-code-job](https://github.com/Thurbeen/claude-code-job) — Docker image for Claude Code automation jobs
 - 🔍 [gdcruiser](https://github.com/Thurbeen/gdcruiser) — GDScript architecture validator and visualizer (Python)
 - 🦀 [rust-skills](https://github.com/Thurbeen/rust-skills) — Meta-problem-driven Rust AI assistance system
