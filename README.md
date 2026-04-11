@@ -7,6 +7,7 @@
 #### 🚀 Projects — [Thurbeen](https://github.com/Thurbeen)
 
 - 📦 [thurbox](https://github.com/Thurbeen/thurbox) — Multi-session Claude Code orchestrator TUI (Rust, Ratatui, MCP)
+- ☸️ [thurkube](https://github.com/Thurbeen/thurkube) — Claude Code Agent Kubernetes Orchestrator
 - 🏠 thurspace — GitOps-managed homelab on bare-metal Kubernetes
 - ⚔️ peon-tactics — Hex-based tactical RPG with turn-based combat
 - 🐳 [claude-code-job](https://github.com/Thurbeen/claude-code-job) — Docker image for Claude Code automation jobs
