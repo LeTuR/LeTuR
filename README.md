@@ -16,6 +16,7 @@
 - 🦀 [rust-skills](https://github.com/Thurbeen/rust-skills) — Meta-problem-driven Rust AI assistance system
 - 🐧 [thurarch](https://github.com/Thurbeen/thurarch) — Opinionated Arch Linux setup
 - 🧰 [thurbeen-skills](https://github.com/Thurbeen/thurbeen-skills) — Centralized Claude Code skills and commands
+- 🧪 [thurlab](https://github.com/Thurbeen/thurlab) — Provisioning + config for thurbox test / remote-support hosts (Windows + Linux servers)
 
 #### 💼 Projects — Personal
 
