@@ -21,6 +21,7 @@
 - ☸️ [coturn-chart](https://github.com/LeTuR/coturn-chart) — Coturn Helm Chart for STUN/TURN on Kubernetes
 - 🛡️ [mdc-agent](https://github.com/LeTuR/mdc-agent) — Microsoft Defender for Cloud recommendation agent (Python)
 - 🏗️ [terraform-azurerm-landing-zone-bootstrap](https://github.com/LeTuR/terraform-azurerm-landing-zone-bootstrap) — Azure landing zone bootstrap module (HCL)
+- 🌐 [portfolio](https://github.com/LeTuR/portfolio) — Personal portfolio site (static HTML/CSS, GitHub Pages)
 
 ---
 
