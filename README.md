@@ -19,7 +19,6 @@
 ## 🤖 Agentic tooling
 
 - **[thurbox](https://github.com/Thurbeen/thurbox)** — TUI for agentic code orchestration, built on Rust, Ratatui and MCP.
-- **[thurbox-plugin-orchestrator](https://github.com/Thurbeen/thurbox-plugin-orchestrator)** — Orchestrator plugin that fans thurbox work out across parallel sessions.
 - **[fleet-template](https://github.com/Thurbeen/fleet-template)** — Template control plane: a live map of your repos plus self-contained thurbox orchestration.
 - **[thurkube](https://github.com/Thurbeen/thurkube)** — Kubernetes orchestrator that runs Claude Code agents as cluster workloads.
 - **[claude-code-job](https://github.com/Thurbeen/claude-code-job)** — Docker image for running Claude Code automation jobs.
