@@ -11,7 +11,7 @@
 - 📊 [thurbox-info-panel](https://github.com/Thurbeen/thurbox-info-panel) — Session, git, agent and system readouts as a thurbox pane (Lua)
 - 🔍 [thurbox-code-review](https://github.com/Thurbeen/thurbox-code-review) — Review a session's worktree diff without leaving the TUI (Lua)
 - 🎮 [thurbox-doom](https://github.com/Thurbeen/thurbox-doom) — DOOM as a thurbox pane, because it had to be done (C)
-- 🗺️ [fleet-template](https://github.com/Thurbeen/fleet-template) — Template control plane: a live map of your repos plus thurbox orchestration
+- 🗺️ [fleet](https://github.com/Thurbeen/fleet) — Template control plane: a live map of your repos plus thurbox orchestration
 - 🔬 [thurview](https://github.com/Thurbeen/thurview) — Guided, evidence-anchored reviews of agent-written code, read in the browser (TypeScript)
 - 📐 [gdcruiser](https://github.com/Thurbeen/gdcruiser) — GDScript architecture validator and visualizer (Python)
 - 📰 [ai-news](https://github.com/Thurbeen/ai-news) — Self-updating site that summarizes AI news twice daily
