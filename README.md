@@ -21,6 +21,7 @@
 
 - 🛡️ [thurward](https://github.com/LeTuR/thurward) — Hermit-unikernel L3/L4 stateful firewall with FQDN-aware rules and SLSA-signed rule compilation (Rust)
 - 🔢 [terraform-provider-sequence](https://github.com/LeTuR/terraform-provider-sequence) — Terraform provider for zero-padded sequential numbers gated by a trigger (Go)
+- 🔎 [iac-review](https://github.com/LeTuR/iac-review) — Forge-agnostic agent skill reviewing Terraform IaC pull and merge requests: AVM conformance and a generated drawio diagram (Python)
 - ⛵ [firstmate](https://github.com/LeTuR/firstmate) — Fork adding thurbox as a session backend
 - 🌐 [portfolio](https://github.com/LeTuR/portfolio) — Personal portfolio site (static HTML/CSS, GitHub Pages)
 
