@@ -13,7 +13,7 @@
 
 - [thurbox-info-panel](https://github.com/Thurbeen/thurbox-info-panel) — Session, git, agent, account quota and system readouts beside the terminal (Lua)
 - [thurbox-code-review](https://github.com/Thurbeen/thurbox-code-review) — A Review tab: the session's diff against its base branch, with notes sent to the agent (Lua)
-- [thurbox-automations](https://github.com/Thurbeen/thurbox-automations) — A pane to run, switch, create and edit scheduled automations, and see why a run failed (Lua)
+- [thurbox-automations](https://github.com/Thurbeen/thurbox-automations) — A pane to run, switch on or off, create and edit scheduled automations, and see why a run failed (Lua)
 - [thurbox-auto-continue](https://github.com/Thurbeen/thurbox-auto-continue) — Waits out a Claude Code usage limit, then types `continue`, once; no LLM involved (Rust)
 - [thurbox-doom](https://github.com/Thurbeen/thurbox-doom) — DOOM as a tab of the agent pane, because it had to be done (C)
 
