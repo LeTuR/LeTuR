@@ -1,23 +1,36 @@
 ### Hey, I'm Arthur (LeTuR) 👋
 
-🤖 Agentic / DevOps Engineer — I build infrastructure, automate everything, and tinker with games on the side.
+🤖 Agentic / DevOps Engineer — I build tools that let coding agents work side by side, and the infrastructure under them. Most of it lives at [Thurbeen](https://github.com/Thurbeen).
 
 ---
 
-#### 🚀 Projects — [Thurbeen](https://github.com/Thurbeen)
+#### 📦 thurbox — the centrepiece
 
-- 📦 [thurbox](https://github.com/Thurbeen/thurbox) — TUI for agentic code orchestration (Rust, Ratatui)
-- 🍺 [homebrew-thurbox](https://github.com/Thurbeen/homebrew-thurbox) — Homebrew tap: `brew install thurbeen/thurbox/thurbox`
-- 📊 [thurbox-info-panel](https://github.com/Thurbeen/thurbox-info-panel) — Session, git, agent and system readouts as a thurbox pane (Lua)
-- 🔍 [thurbox-code-review](https://github.com/Thurbeen/thurbox-code-review) — Review a session's worktree diff without leaving the TUI (Lua)
-- 🎮 [thurbox-doom](https://github.com/Thurbeen/thurbox-doom) — DOOM as a thurbox pane, because it had to be done (C)
-- 🗺️ [fleet-template](https://github.com/Thurbeen/fleet-template) — Template control plane: a live map of your repos plus thurbox orchestration
-- 🔬 [thurview](https://github.com/Thurbeen/thurview) — Guided, evidence-anchored reviews of agent-written code, read in the browser (TypeScript)
-- 📐 [gdcruiser](https://github.com/Thurbeen/gdcruiser) — GDScript architecture validator and visualizer (Python)
-- 📰 [ai-news](https://github.com/Thurbeen/ai-news) — Self-updating site that summarizes AI news twice daily
-- 🐧 [thurarch](https://github.com/Thurbeen/thurarch) — Opinionated Arch Linux install script
+- [thurbox](https://github.com/Thurbeen/thurbox) — TUI for agentic code orchestration: several coding agents side by side in one terminal, in persistent sessions (Rust)
+- [homebrew-thurbox](https://github.com/Thurbeen/homebrew-thurbox) — Install it: `brew install thurbeen/thurbox/thurbox`
 
-#### 💼 Projects — Personal
+#### 🧩 thurbox plugins
+
+- [thurbox-info-panel](https://github.com/Thurbeen/thurbox-info-panel) — Session, git, agent, account quota and system readouts beside the terminal (Lua)
+- [thurbox-code-review](https://github.com/Thurbeen/thurbox-code-review) — A Review tab: the session's diff against its base branch, with notes sent to the agent (Lua)
+- [thurbox-automations](https://github.com/Thurbeen/thurbox-automations) — A pane to run, switch, create and edit scheduled automations, and see why a run failed (Lua)
+- [thurbox-auto-continue](https://github.com/Thurbeen/thurbox-auto-continue) — Waits out a Claude Code usage limit, then types `continue`, once; no LLM involved (Rust)
+- [thurbox-doom](https://github.com/Thurbeen/thurbox-doom) — DOOM as a tab of the agent pane, because it had to be done (C)
+
+#### 🛰️ fleet
+
+- [fleet](https://github.com/Thurbeen/fleet) — A control plane over thurbox: give it a goal, get back pull requests, one worker session per task (Python)
+
+#### 🧠 Agent skills
+
+- [publish](https://github.com/Thurbeen/publish) — Gates committed work — adversarial review, tests, lint, docs — before it pushes and opens the change request
+- [thurview](https://github.com/Thurbeen/thurview) — Your agent writes the review; you read it in the browser, anchored to the code (TypeScript)
+
+#### 🧰 More at Thurbeen
+
+- [gdcruiser](https://github.com/Thurbeen/gdcruiser) — Static dependency analyzer and architecture-rule checker for Godot projects (Python)
+
+#### 💼 Personal projects
 
 - 🛡️ [thurward](https://github.com/LeTuR/thurward) — Hermit-unikernel L3/L4 stateful firewall with FQDN-aware rules and SLSA-signed rule compilation (Rust)
 - 🔢 [terraform-provider-sequence](https://github.com/LeTuR/terraform-provider-sequence) — Terraform provider for zero-padded sequential numbers gated by a trigger (Go)
