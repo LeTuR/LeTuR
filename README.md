@@ -41,9 +41,7 @@ irm https://raw.githubusercontent.com/Thurbeen/thurbox/main/scripts/install.ps1 
 
 #### 💼 Personal projects
 
-- 🛡️ [thurward](https://github.com/LeTuR/thurward) — Hermit-unikernel L3/L4 stateful firewall with FQDN-aware rules and SLSA-signed rule compilation (Rust)
 - 🔢 [terraform-provider-sequence](https://github.com/LeTuR/terraform-provider-sequence) — Terraform provider for zero-padded sequential numbers gated by a trigger (Go)
-- ⛵ [firstmate](https://github.com/LeTuR/firstmate) — Fork adding thurbox as a session backend
 - 🌐 [portfolio](https://github.com/LeTuR/portfolio) — Personal portfolio site (static HTML/CSS, GitHub Pages)
 
 ---
