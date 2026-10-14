@@ -7,7 +7,7 @@
 #### 📦 thurbox — the centrepiece
 
 - [thurbox](https://github.com/Thurbeen/thurbox) — TUI for agentic code orchestration: several coding agents side by side in one terminal, in persistent sessions (Rust)
-- [homebrew-thurbox](https://github.com/Thurbeen/homebrew-thurbox) — Install it: `brew install thurbeen/thurbox/thurbox`
+- Install it: `brew install thurbeen/thurbox/thurbox`
 
 #### 🧩 thurbox plugins
 
