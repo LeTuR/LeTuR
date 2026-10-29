@@ -24,11 +24,14 @@ irm https://raw.githubusercontent.com/Thurbeen/thurbox/main/scripts/install.ps1 
 - [thurbox-code-review](https://github.com/Thurbeen/thurbox-code-review) — A Review tab: the session's diff against its base branch, with notes sent to the agent (Lua)
 - [thurbox-automations](https://github.com/Thurbeen/thurbox-automations) — A pane to run, switch on or off, create and edit scheduled automations, and see why a run failed (Lua)
 - [thurbox-auto-continue](https://github.com/Thurbeen/thurbox-auto-continue) — Waits out a Claude Code usage limit, then types `continue`, once; no LLM involved (Rust)
+- [thurbox-fleetlens](https://github.com/Thurbeen/thurbox-fleetlens) — Fleet Lens: browse Fleet v2 resources, Tasks first, in one keyboard-first float (Lua)
 - [thurbox-doom](https://github.com/Thurbeen/thurbox-doom) — DOOM as a tab of the agent pane, because it had to be done (C)
 
 #### 🛰️ fleet
 
-- [fleet](https://github.com/Thurbeen/fleet) — A control plane over thurbox: give it a goal, get back pull requests, one worker session per task (Python)
+- [fleet](https://github.com/Thurbeen/fleet) — Runs one AI agent session per Task, from brief to recorded result; one Linux binary (Rust)
+- [vega](https://github.com/Thurbeen/vega) — VEGA, the Mission Control workspace bundled with Fleet: it routes and steers, worker Tasks do the work
+- [agent-observability](https://github.com/Thurbeen/agent-observability) — Grafana dashboards, Prometheus alerts and an OpenTelemetry quick-start for Fleet and Thurbox
 
 #### 🧠 Agent skills
 
