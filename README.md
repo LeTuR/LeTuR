@@ -18,7 +18,7 @@ curl -fsSL https://raw.githubusercontent.com/Thurbeen/thurbox/main/scripts/insta
 irm https://raw.githubusercontent.com/Thurbeen/thurbox/main/scripts/install.ps1 | iex
 ```
 
-#### 🧩 thurbox plugins
+#### 🧩 thurbox mods
 
 - [thurbox-info-panel](https://github.com/Thurbeen/thurbox-info-panel) — Session, git, agent, account quota and system readouts beside the terminal (Lua)
 - [thurbox-code-review](https://github.com/Thurbeen/thurbox-code-review) — A Review tab: the session's diff against its base branch, with notes sent to the agent (Lua)
@@ -30,6 +30,7 @@ irm https://raw.githubusercontent.com/Thurbeen/thurbox/main/scripts/install.ps1 
 
 - [Fleet](https://github.com/Thurbeen/thurbox/tree/main/docs/fleet) — The engine under thurbox, shipped with it: declare Tasks, controllers run one agent session per brief and record the result (Rust)
 - [vega](https://github.com/Thurbeen/vega) — VEGA, a Mission Control for Fleet: it dispatches and follows, worker Tasks do the work
+- [herdr-fleetlens](https://github.com/Thurbeen/herdr-fleetlens) — Fleet Lens for the Herdr app: every Fleet resource kind in one float, with Herdr's live sessions on top (JavaScript)
 - [fleet-reviewer](https://github.com/Thurbeen/fleet-reviewer) — Fleet plugin that starts one review Task per open pull or merge request, kept current until it merges (TypeScript)
 - [fleet-factory](https://github.com/Thurbeen/fleet-factory) — Software factory on Fleet: ticket board to production and back, as infrastructure as code (TypeScript)
 - [agent-observability](https://github.com/Thurbeen/agent-observability) — Grafana dashboards, Prometheus alerts and an OpenTelemetry quick-start for Fleet and thurbox
